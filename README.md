@@ -1,3 +1,3 @@
 # Image-Classifier-Project
 
-ML script to crreate model for gettting image category
+ML script to create a model for getting image category.
